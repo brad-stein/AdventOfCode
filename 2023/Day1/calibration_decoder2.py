@@ -14,15 +14,7 @@ data_list = data.split("\n")
 final_value = 0
 def entryassess(data: list):
     final_value=0
-    searchlist=["one", 
-                "two", 
-                "three", 
-                "four", 
-                "five", 
-                "six", 
-                "seven", 
-                "eight", 
-                "nine"]
+
     for i in data:
         teststring=i
         teststring=teststring.replace("one", "o1e")
