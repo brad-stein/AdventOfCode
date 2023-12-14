@@ -1,1 +1,1 @@
-solution to advent of code 2023 day 6 puzzel 
+solution to advent of code 2023 day 6 puzzle
